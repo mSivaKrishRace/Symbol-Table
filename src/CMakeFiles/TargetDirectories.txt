@@ -1,0 +1,3 @@
+/home/mcw/Desktop/McW_Training/OMP/SymbolTable/src/CMakeFiles/rebuild_cache.dir
+/home/mcw/Desktop/McW_Training/OMP/SymbolTable/src/CMakeFiles/edit_cache.dir
+/home/mcw/Desktop/McW_Training/OMP/SymbolTable/src/CMakeFiles/SymbolTable.dir
