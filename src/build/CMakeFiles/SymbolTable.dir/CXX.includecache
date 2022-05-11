@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mcw/Desktop/McW_Training/OMP/SymbolTable/src/SymTable.cpp
+iostream
+-
+gtest/gtest.h
+-
+SymTable.h
+/home/mcw/Desktop/McW_Training/OMP/SymbolTable/src/SymTable.h
+
+/home/mcw/Desktop/McW_Training/OMP/SymbolTable/src/SymTable.h
+iostream
+-
+gtest/gtest.h
+-
+
+/home/mcw/Desktop/McW_Training/OMP/SymbolTable/src/SymTable_main.cpp
+iostream
+-
+gtest/gtest.h
+-
+SymTable.h
+/home/mcw/Desktop/McW_Training/OMP/SymbolTable/src/SymTable.h
+SymTable.cpp
+/home/mcw/Desktop/McW_Training/OMP/SymbolTable/src/SymTable.cpp
+
